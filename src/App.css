@@ -1,0 +1,23 @@
+.topo{height: 110px;padding: 1em;}
+.logo{height: 100%;}
+.logo img{width: 150px;}
+.brd{border: 1px solid;}
+.center{display:flex; justify-content:center; align-items:center;}
+.margin{display:flex; justify-content:space-around; align-items:center;}
+.space{display:flex; justify-content:space-between; align-items:center;}
+
+.menu{ height: 150px;}
+.home{height: 550px;background:linear-gradient(to right, #e8f6f6, #f9ebfa);} 
+.home img{height: 460px; position: relative;top:-1em;}
+.item{width: 650px;height: 100%;padding: 1em;}
+.item h1{font-size:45pt}
+.item h2{font-size:35pt; font-weight:100;}
+.item button{width: 160px; height:51px; border-radius: 3em; background-color: #fa5873; color: #fff; border: 0; margin-top:1em;font-size:15pt;}
+.item button:hover{background-color: #d64551; font-style:italic; cursor:pointer}
+.link{color: #000; font-size: 19px; font-weight: bold; font-weight: normal; padding: 1em; text-decoration: none}
+
+.commerce, .come{max-width: 500px; margin:0 auto; height:auto; padding: 1em; text-align:center; flex-wrap:wrap; gap: 1em;}
+.caixa{width: 150px; height:150px;margin: 1em 0;}
+.caixa img{width:120px;border-radius:50%;}
+
+.footer{height: 160px; background-color:green;padding: 1em;}
